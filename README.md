@@ -13,6 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference
+
+
+
 ##Flutter Stateful Life Circle
+
+
 ![Screenshot 2024-05-13 125858](https://github.com/smy0m1nk0/life_circle/assets/168166278/e90bed43-5b51-4a85-9354-63208fc759f7)
