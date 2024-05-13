@@ -1,0 +1,28 @@
+///StateFul Widget////
+
+Create State => Create From Stateful
+Init State => late controller,not get BuildContext, One time Call ,Singleton
+Didchange Dependency => rebuild
+
+Build => UI update
+Didupdate Widget  =>
+
+
+Deactivate =>
+Dispose =>
+
+Unique Key , Value Key , Object Key => Same Type Widget
+
+Global Key => Control Widget
+
+Page Storage Key Flutter
+
+ListView(
+key : PageStorageKey(1)
+
+Application Life Circle
+=> WidgetsBindingObserver
+//resume //inactive //pause //detach
+
+
+
